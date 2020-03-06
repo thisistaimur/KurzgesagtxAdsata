@@ -1,4 +1,4 @@
-# KurzgesagtxAdsata
+# Kurzgesagt x Adsata
 Webcam based Eyetracking Heatmap
 
 Link to live version: thisistaimur.me/kurzgesagt-adsata

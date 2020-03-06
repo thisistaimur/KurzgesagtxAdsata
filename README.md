@@ -1,7 +1,7 @@
 # KurzgesagtxAdsata
 Webcam based Eyetracking Heatmap
 
-(thisistaimur.me/kurzgesagt-adsata)
+[![Link to live version]](thisistaimur.me/kurzgesagt-adsata)
 
 
 ## Author
